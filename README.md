@@ -1,3 +1,3 @@
 # Inheritance
-Link project Inheretance
+Link project Inheritance
 https://github.com/ardenaAfif/Inheritance.git
